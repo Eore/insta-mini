@@ -1,0 +1,40 @@
+.like-post{
+    cursor: pointer;
+    font-size: 30px;
+    color: red;
+}
+.font{
+    cursor: pointer;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.bg-ch{
+    background-color: #FFF;
+}
+.p-bg-ch{
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+.red{
+    color: red;
+}
+
+.mg-bot-card-home{
+    margin-bottom: 90px;
+}
+
+.size-photo{
+    /* width: 1000px; */
+    height: 600px;
+}
+/* 
+.mid-big-card{
+    display: flex;
+    justify-content:  center;
+}
+.card-size{
+    width: 1003px;
+} */

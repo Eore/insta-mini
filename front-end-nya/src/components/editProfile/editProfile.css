@@ -1,0 +1,122 @@
+.ep-mg-top{
+    margin-top: 180px;
+}
+
+.pad{
+    padding: 30px;
+    font-size: 18px;
+    color: black;
+}
+
+.pad:hover{
+    border-left:2px solid black;
+}
+
+.pad-modal{
+    padding: 30px;
+    font-size: 18px;
+    color: black;
+}
+
+.pad-modal:hover{
+    background-color: rgba(211, 211, 211, 0.145);
+}
+
+.mg-top{
+    padding-top: 30px;
+}
+
+.lb-right{
+    text-align: right;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.wd-input{
+    width: 550px;
+    padding-left: 20px;
+}
+
+.pd-left-form{
+    padding-left: 45px;
+}
+
+
+.mg-bot{
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.liedit-p ul{
+    list-style: none;
+    
+} 
+
+.h1-edit-profile{
+    font-weight: 100;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.geser-but{
+    width: 90px;
+    padding: 5px;
+    font-size: 19px;
+}
+
+.mag-but-sub-edit{
+    margin-left: 130px;
+    padding-top: 30px;
+    padding-bottom: 40px;    
+}
+
+.pad-atas-p{
+    margin-top: 13px;
+    width: 60px;
+    height: 60px;;
+}
+.mg-right-pp{
+    margin-left: 70px;
+}
+.center-1{
+    text-align: center;
+}
+
+.borad{
+    border-radius: 4%;
+}
+
+#exampleModalCenter a{
+    outline: none;
+    text-decoration: none;
+}
+
+.st1{
+    font-weight: bold;
+}
+.st2{
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+.st3{
+    font-weight: bold;
+    color: rgb(0, 17, 255);    
+}
+.st4{
+    font-weight: bold;
+    color: #ffffff
+}
+.liedit-p li a{
+    text-decoration: none;
+}
+.tn .nav a{
+    text-decoration: none;
+}
+.tn .nav a:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
+.form-up-p{
+    padding-top: 37px;
+    width: 300px;
+
+}

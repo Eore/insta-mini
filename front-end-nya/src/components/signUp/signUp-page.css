@@ -1,0 +1,39 @@
+.omni-auth{
+    padding-bottom: 35px;
+}
+
+.center-p{
+    display: flex;
+    justify-content: center;
+    color: #A7A7A7;
+}
+
+.p-policy{
+    text-align: center;
+    padding-top: 20px;
+    width:200px;
+}
+
+.p-see{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    width:300px;
+    font-size: 20px;
+    color: rgb(143, 142, 142);
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    
+}
+
+.centerRow-signUp{
+    margin-top: 50px;
+}
+
+.center-signUp{
+    padding: 19px;
+}
+
+.mg-bot-1{
+    margin-bottom: 0px;
+}

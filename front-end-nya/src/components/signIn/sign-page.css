@@ -1,0 +1,62 @@
+.centerRow{
+    margin-top: 200px;
+}
+
+.form-signin-heading{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'chalkduster', cursive;
+    font-size: 30px;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+.btn-signIn{
+    height: 30px;
+    font-size: 15px;
+    padding-bottom: 25px;
+}
+
+.center-signUp{
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.margin-sign{
+    margin-top: 20px;
+}
+
+.geser-kanan{
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.omni-auth {
+    margin-top: 30px;
+    text-align: center;
+    border-top: 1px solid #c7c7c7;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+
+.omni-auth .or {
+    position: absolute;
+    margin-top: -13px;
+    padding: 5px;
+    background-color: #fff;
+    left: 48%;
+    font-family: Roboto, Helvetica, Arial;
+    font-size: 12px;
+    font-weight: 500;
+    color: #999;
+  }
+
+  .omni-auth .bti {
+    padding-top: 30px;
+  }
+
+  .bg-input-sign {
+    background-color: #FAFAFA;      
+  }

@@ -1,0 +1,132 @@
+
+ .infopr ul{
+    margin-top: 20px;
+}
+.infopr li{
+    display: inline-block;
+}
+.infopr li a{
+    text-decoration: none;
+    padding-right: 20px;
+}  
+
+.pad-but-h1{
+    padding-right: 30px;
+    font-weight: 100;
+    font-size: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.bawah-dikit-bang{
+    margin-top: 180px;
+}
+
+.img-right{
+    text-align: right;
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+.pad-left{
+    padding-left: 100px;
+}
+
+.pad-0{
+    padding: 0px;
+}
+
+.geser-atas-but-edit{
+    width: 140px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 1px solid black;
+    padding-top:8px; 
+}
+
+.icon-set{
+    padding-left: 15px;
+    font-size: 30px;
+    color: black;
+}
+
+.log-out-st{
+    cursor: pointer;
+}
+.icon-log{
+    cursor: pointer;
+}
+.log-out-st:hover{
+    background-color: rgba(220, 220, 220, 0.535);
+}
+
+.center-a-modal{
+    text-align: center;
+}
+
+.border-bot-a-modal{
+   border-bottom: 1px solid rgb(197, 197, 197)
+}
+
+.modal-body{
+    padding: 0px;
+}
+
+/* .height-modal-followers{
+    height: 90px;;
+} */
+
+.border-bot-a-modal-follower{
+   border-bottom: 1px solid rgb(197, 197, 197);
+   padding: 0px;
+    
+}
+
+.pad-modal-follower {
+    padding: 10px;
+}
+
+/* .modal-content{
+    width: 1800px;
+} */
+
+.tab-photo{
+    text-align: center;
+    margin-top:100px; 
+    /* margin-left: 900px; */
+}
+
+.nav-tabs{
+    border-bottom: 1px solid coral;
+    border-block-start-width: 120px;
+}
+
+.card-photo-post{
+    margin-top: 30px;
+}
+
+.size-img-post{
+    height: 380px;
+}
+
+.size-img-post:hover{
+    filter: brightness(0.6);
+    height: 380px;
+}
+
+.mg-bot-card-photo{
+    margin-bottom: 30px;
+}
+
+.modal-lg{
+    width: 1000px;
+    /* height: 2000px; */
+}
+.infopr ul li a{
+    text-decoration: none;
+}
+
+#exampleModalCenterlog  a{
+    font-weight: bold;
+    text-decoration: none;
+}

@@ -1,0 +1,81 @@
+.heightnav{
+    height: 90px;;
+}
+
+.nav-bg{
+    background: #000;
+    background-color: #000;
+}
+
+.inst-logo{
+    /* padding-right: 20px; */
+    font-size: 35px;
+    color: black;
+}
+
+
+/* navbar nav-bg fixed-top navbar-expand-lg navbar-light border-bottom  */
+/* ///////////////////////////////////////////////// */
+
+.heightnav2{
+    height: 60px;
+}
+
+.brandH12{
+    font-family: 'chalkduster', chalkduster;   
+    padding-left: 20px; 
+    display: none;
+    /* border-left: 1px solid black; */
+}
+
+.tengahin-dikit-bang-input2{
+    /* padding-left: 300px; */
+    padding-top: 100px;
+    /* padding-bottom: 10px; */
+}
+
+/* ///////////////////////////////////////////////// */
+
+
+.brandH1{
+    font-family: 'chalkduster', chalkduster;   
+    padding-left: 20px; 
+    border-left: 1px solid black;
+}
+
+.geser-dikit-bang{
+    padding-left: 23px;
+}
+
+.gedein-icon-dikit-bang{
+    font-size: 25px;
+    padding-right: 15px; 
+}
+
+.tengahin-dikit-bang-input{
+    padding-left: 210px;
+    padding-top: 10px;
+    /* padding-bottom: 10px; */
+}
+
+
+
+.bg-input{
+    width: 220px;
+    height:30px;
+    background-color: #FAFAFA;
+}
+
+.sizedrop{
+    width: 500px;
+    margin-left: 1000px;
+    /* margin-top: 10px; */
+}
+
+.modal-lg{
+    max-width: 100% !important;
+}
+
+#dont-show{
+    display: none;
+}
